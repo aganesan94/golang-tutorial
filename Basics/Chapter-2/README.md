@@ -1,6 +1,8 @@
 # Variables
 
-
+```go
+go run 2a-variables.go
+```
 
 ## References
 

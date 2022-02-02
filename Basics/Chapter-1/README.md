@@ -8,7 +8,7 @@
 
 ## Run the apps
 
-```
+```go
 go run 1a-helloworld.go
 ```
 

@@ -19,5 +19,5 @@ func main() {
 	fmt.Println("Email: ")
 	fmt.Scanln(&email)
 
-	fmt.Printf("Let us send %v, %v an email at %v", firstName, lastName, email)
+	fmt.Printf("Let us send %v, %v an email at %v", lastName, firstName, email)
 }
