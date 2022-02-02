@@ -6,8 +6,10 @@
 * Importing statements
 * Different types of print statements
 
-```go
-fmt.Println("Hello World")
+## Run the apps
+
+```
+go run 1a-helloworld.go
 ```
 
 ## References
