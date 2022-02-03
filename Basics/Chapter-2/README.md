@@ -1,5 +1,10 @@
 # Variables
 
+## Variables
+
+* Creating Constants
+* Creating Variables
+
 ```go
 go run 2a-variables.go
 ```
