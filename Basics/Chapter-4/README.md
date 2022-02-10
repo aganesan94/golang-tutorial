@@ -5,5 +5,5 @@
 * Defining a pre-defined array
 
 ```
-go run 3a-user-inputs.go
+go run 4a-arrays.go
 ```

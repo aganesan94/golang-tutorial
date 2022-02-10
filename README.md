@@ -18,5 +18,5 @@ https://pkg.go.dev/
 | ----------- | ----------- |
 | Chapter-1   | Quick Helloworld, Print statements|
 | Chapter-2   | Variables |
-| Chapter-3   | Use Inputs |
-| Chapter-4   | Use Inputs |
+| Chapter-3   | User Inputs |
+| Chapter-4   | Arrays |
